@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\RunRust]
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\RunRust\Command]
+@="cmd /c RunRust.bat"
